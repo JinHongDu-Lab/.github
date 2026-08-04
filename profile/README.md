@@ -12,7 +12,7 @@ We develop statistical and machine-learning methods for understanding complex da
 
 ## About Us
 
-Our lab led by **[Jin-Hong Du](https://jinhongdu-lab.github.io/)** works at the intersection of statistics, machine learning, and data-driven science. Our research combines rigorous statistical theory with modern computational methods to address problems involving causality, interpretability, distribution shifts, and complex structured data.
+Our lab led by **[Jin-Hong Du](https://jinhongdu-lab.github.io/)** works at the intersection of statistics, machine learning, and data-driven science. Our research combines rigorous statistical th[...]
 
 ## Research Areas
 
@@ -60,6 +60,18 @@ We aim to build methods that are:
 We welcome collaborations across statistics, machine learning, artificial intelligence, genomics, and data-intensive scientific disciplines.
 
 For research information, publications, and updates, visit **[Jin-Hong Du’s website](https://jaydu1.github.io/dujinhong/)**.
+
+## Sponsors
+
+<div align="center">
+  <a href="https://termius.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://assets-global.website-files.com/5f5a8e7f6f5b7a4f4b7f6f5a/termius-logo.svg" alt="Termius logo" width="180" />
+  </a>
+</div>
+
+<p align="center">
+  <strong>Termius provides a secure, reliable, and collaborative SSH client.</strong>
+</p>
 
 ---
 
