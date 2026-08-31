@@ -61,14 +61,6 @@ We welcome collaborations across statistics, machine learning, artificial intell
 
 For research information, publications, and updates, visit **[Jin-Hong Du’s website](https://jaydu1.github.io/dujinhong/)**.
 
-## Sponsors
-
-<div align="left">
-  <a href="https://termius.com/" target="_blank" rel="noopener noreferrer">
-    <img width="32" height="32" alt="termius-icon-64" src="https://github.com/user-attachments/assets/cf10563c-64fa-445a-9c25-1342dbae1824" />
-  </a>
-  Termius provides a secure, reliable, and collaborative SSH client.
-</div>
 
 ---
 
